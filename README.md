@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benmckq
-- 👀 I’m interested in financial technology, blockchain, data mining, and automation
-- 🌱 I’m currently learning about mathematical finance, Solidity programming, and various different Python libraries to help with automation
-- 💞️ I’m currently looking to collaborate on automation or data science projects
+- 👀 I’m interested in Python scripting, automation, webscraping, blockchain, and data mining
+- 🌱 I’m currently learning about mathematical finance, Solidity programming, and various different Python libraries to help with automation and webscraping
+- 💞️ I’m currently working on a sports betting algorithm for finding arbitrage opportunities and other profitable strategies. I'm also looking to collaborate on any other automation or data science projects, so please reach out!
 - 📫 How to reach me: mckeonben@gmail.com
 
 <!---
